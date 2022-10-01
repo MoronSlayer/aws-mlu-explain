@@ -133,7 +133,7 @@
         <div class="step-content">
           <p>
             Of course we know this model is bad - the data doesn't fit the data
-            well at all. But how can do quantify exactly <i>how</i> bad?
+            well at all. But how can we quantify exactly <i>how</i> bad this model is?
             <br /><br />
             To evaluate our model's performance quantitatively, we plot the error
             of each observation directly. These errors, or
